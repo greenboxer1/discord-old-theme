@@ -34,7 +34,7 @@
 .container_c8ffbb { /* Разделитель списка участников и чата */
     border-left: none !important; 
 }
-.panels_c48ade { /*Исправление панельки с замутом */
+.panels__5e434 { /*Исправление панельки с замутом */
     border-radius: 0 !important;
     left: auto !important;
     right: 0 !important;
@@ -44,9 +44,12 @@
 .panel__5dec7.activityPanel_c48ade { /* Скругление игровой активности */
     border-radius: 0;
 }
-.wrapper_ef3116.guilds_c48ade { /*Исправление списка серверов */
+.wrapper_ef3116.guilds__5e434 { /*Исправление списка серверов */
     margin-bottom: 0px !important;
 }
+
+
+
 .inner_c0bea0.biteSize_c0bea0 { /* Цвета профилей */
     background: #292b2f !important; 
 }
